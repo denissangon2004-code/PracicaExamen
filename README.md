@@ -1,3 +1,3 @@
 # PracicaExamen
 
-![LOGO][logo.png]
+![Fallou a imaxe](/logo.png)
