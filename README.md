@@ -1,1 +1,3 @@
 # PracicaExamen
+
+![LOGO][logo.png]
